@@ -1,3 +1,3 @@
-# MetaSol Interface
+# SolPay Interface
 
-Application interface for Metasol - Meta Transactions for SPL token transfers on Solana.
+Application interface for SolPay based of MetaSol - Meta Transactions for SPL token transfers on Solana.
